@@ -25,7 +25,7 @@ That's up to you. The most basic set of packages you need to realize this deskto
 
 Some other applications you may find useful:
 
-* gedit evince ristretto chromium-browser
+* gedit evince ristretto chromium-browser thunar gvfs-backends
 
 If you wish to use conky, install conky.
 
