@@ -21,7 +21,7 @@ My primary source for this configuration was the Arch Linux wiki, whose [Desktop
 ## Which packages do I need to install?
 That's up to you. The most basic set of packages you need to realize this desktop is:
 
-* xserver-xorg openbox lxappearance lxappearance-obconf gnome-themes-standard menu obmenu xinit nitrogen gmrun ubuntu-wallpapers xfce4-terminal
+* xserver-xorg openbox lxappearance lxappearance-obconf gnome-themes-standard menu obmenu xinit tint2 nitrogen gmrun ubuntu-wallpapers xfce4-terminal
 
 Some other applications you may find useful:
 
